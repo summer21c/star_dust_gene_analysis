@@ -1,6 +1,8 @@
 # 项目简介abstract
 **This project presents a method for analyzing gene alignment results to screen out optimal genes.**
 **(这个项目描述了一种对基因比对结果分析，用以筛选出最佳基因的方法。)**
+**相关演示视频已经上传了bilibili：【生物信息学入门教程4-ls-bsr结果处理-哔哩哔哩】 https://b23.tv/oWPNgrl**
+
 # star_dust_gene_analysis
 
 ## 一、数据准备
