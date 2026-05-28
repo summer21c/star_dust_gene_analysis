@@ -6,7 +6,7 @@
 
 ### **1.LS-BSR工具的基本原理：**
 
-![pic_1](1.4_result_dealing\pics\pic_1.png)
+![pic_1](.\1.4_result_dealing\pics\pic_1.png)
 
 ### **2.LS-BSR的结果解读：**
 
