@@ -6,7 +6,7 @@
 
 ### **1.LS-BSR工具的基本原理：**
 
-![pic_1](C:\Users\天一\Desktop\guide_for_freshman\1.4_result_dealing\pics\pic_1.png)
+![pic_1](star_dust_gene_analysis\1.4_result_dealing\pics\pic_1.png)
 
 ### **2.LS-BSR的结果解读：**
 
