@@ -1,0 +1,2 @@
+代码名称叫axis.py，测试文件是Salmonella_result.txt
+输出的结果是exclude.txt，include.txt，gene_data.txt，一个散点图，以及一个包含了折线图的文件夹
